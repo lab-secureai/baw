@@ -39,8 +39,8 @@ BAW studies black-box ownership verification for static, feature-based malware d
 ## Installation
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/baw-malware-watermark.git
-cd baw-malware-watermark
+git clone https://github.com/lab-secureai/baw.git
+cd baw
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 python -m pip install --upgrade pip
@@ -93,7 +93,7 @@ See [REPRODUCIBILITY.md](REPRODUCIBILITY.md). For a public artifact release, inc
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff). Replace the placeholder repository URL and publication metadata before creating a release.
+Will be updated after accepted
 
 ## License
 
