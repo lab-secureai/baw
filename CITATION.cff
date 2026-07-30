@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the associated paper."
-title: "BAW: Benign Adversarial Watermarking"
+title: "BAW: Benign Adversarial Watermarking for Ownership Verification of Machine Learning Malware Detectors"
 type: software
 version: 0.1.0
 date-released: 2026-07-30
@@ -11,7 +11,7 @@ authors:
     given-names: "Thu Phuong"
   - family-names: "Vu"
     given-names: "Duy Hien"
-repository-code: "https://github.com/<YOUR_USERNAME>/baw-malware-watermark"
+repository-code: "https://github.com/lab-secureai/baw"
 license: MIT
 preferred-citation:
   type: conference-paper
